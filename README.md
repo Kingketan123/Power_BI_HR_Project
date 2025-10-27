@@ -1,6 +1,8 @@
 # Power_BI_HR_Project
 The HR Analytics Dashboard provides a comprehensive view of employee data to support data-driven decision-making across key HR domains — Workforce Overview, Salary & Compensation, and Diversity & Inclusion.
 It helps management monitor employee distribution, pay structure, and workforce diversity through insightful, interactive visuals.
+This video show of linked output HR Dashboard 
+
 
 🧩 Dashboard Structure
 Page 1 – HR Overview
